@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Arial;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* HERO */
@@ -24,7 +24,7 @@
 .btn {
   margin-top: 15px;
   padding: 10px 20px;
-  background: #e91e63;
+  background: linear-gradient(#e91e63);
   border: none;
   color: white;
   cursor: pointer;
